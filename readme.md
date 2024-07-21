@@ -24,8 +24,8 @@ Before you begin, ensure you have the following installed on your local machine:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Mickeydoe/aws-terraform-provisioning.git
-cd aws-terraform-provisioning
+git clone https://github.com/Mickeydoe/Dynamodb-with-terraform.git
+cd Dynamodb-with-terraform
 ```
 
 ### Configure AWS Credentials
