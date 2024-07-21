@@ -1,7 +1,3 @@
-Sure, here's a write-up for your GitHub repository containing Terraform files for automatic AWS infrastructure provisioning:
-
----
-
 # AWS Infrastructure Provisioning with Terraform
 
 This repository contains Terraform configuration files for automatically provisioning infrastructure in your AWS environment. Terraform is an Infrastructure as Code (IaC) tool that allows you to define and manage infrastructure using declarative configuration files.
